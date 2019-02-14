@@ -1,4 +1,2 @@
 # hello-world
-Hello Git Hub
-
-This is first touch with GitHub
+ This is second try for editing Readme file
